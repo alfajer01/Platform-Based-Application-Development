@@ -17,6 +17,10 @@ platform-based-application-development/
 +- README.md
 +- tugas-1/
    +- tutorial-1-1-instalasi-flutter/
+   |  +- app/
+   |  +- screenshot/
+   |  +- README.md
+   +- tutorial-1-2-intro-dart/
       +- app/
       +- screenshot/
       +- README.md
@@ -26,6 +30,7 @@ platform-based-application-development/
 
 - [Task 1](./tugas-1/)
 - [Tutorial 1.1 - Flutter Installation](./tugas-1/tutorial-1-1-instalasi-flutter/)
+- [Tutorial 1.2 - Intro Dart](./tugas-1/tutorial-1-2-intro-dart/)
 
 ## Notes
 
