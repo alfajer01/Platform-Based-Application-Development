@@ -26,7 +26,7 @@ dart run
 - [x] Setiap baris list terisi sesuai pola soal
 - [x] Fungsi FPB berhasil dibuat
 - [x] Program dapat dijalankan dan menghasilkan output
-- [ ] Screenshot hasil run disimpan di folder `screenshot/`
+- [x] Screenshot hasil run disimpan di folder `screenshot/`
 
 ## Student Information
 
