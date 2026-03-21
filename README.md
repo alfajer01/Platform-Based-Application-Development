@@ -26,6 +26,10 @@ platform-based-application-development/
 |     +- README.md
 +- tugas-2/
    +- tutorial-2-1-layout/
+   |  +- app/
+   |  +- screenshot/
+   |  +- README.md
+   +- tutorial-2-2-layout/
       +- app/
       +- screenshot/
       +- README.md
@@ -38,6 +42,7 @@ platform-based-application-development/
 - [Tutorial 1.2 - Intro Dart](./tugas-1/tutorial-1-2-intro-dart/)
 - [Task 2](./tugas-2/)
 - [Tutorial 2.1 - Layout](./tugas-2/tutorial-2-1-layout/)
+- [Tutorial 2.2 - Layout](./tugas-2/tutorial-2-2-layout/)
 
 ## Notes
 
