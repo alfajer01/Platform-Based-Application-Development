@@ -43,6 +43,11 @@ platform-based-application-development/
 |     +- app/
 |     +- screenshot/
 |     +- README.md
++- tugas-5/
+|  +- tutorial-5-1-networking/
+|     +- app/
+|     +- screenshot/
+|     +- README.md
 ```
 
 ## Contents
@@ -56,6 +61,8 @@ platform-based-application-development/
 - [Task 3](./tugas-3/)
 - [Tutorial 3.1 - Layout Part 3](./tugas-3/tutorial-3-1-layout-part-3/)
 - [Tutorial 3.2 - User Interaction](./tugas-3/tutorial-3-2-user-interaction/)
+- [Task 5](./tugas-5/)
+- [Tutorial 5.1 - Networking](./tugas-5/tutorial-5-1-networking/)
 
 ## Notes
 
