@@ -15,6 +15,7 @@ This repository contains assignments for the Platform-Based Application Developm
 ```text
 platform-based-application-development/
 +- README.md
++- TRANSFER_KNOWLEDGE.md
 +- tugas-1/
 |  +- tutorial-1-1-instalasi-flutter/
 |  |  +- app/
@@ -25,11 +26,16 @@ platform-based-application-development/
 |     +- screenshot/
 |     +- README.md
 +- tugas-2/
-   +- tutorial-2-1-layout/
-   |  +- app/
-   |  +- screenshot/
-   |  +- README.md
-   +- tutorial-2-2-layout/
+|  +- tutorial-2-1-layout/
+|  |  +- app/
+|  |  +- screenshot/
+|  |  +- README.md
+|  +- tutorial-2-2-layout/
+|     +- app/
+|     +- screenshot/
+|     +- README.md
++- tugas-3/
+   +- tutorial-3-1-layout-part-3/
       +- app/
       +- screenshot/
       +- README.md
@@ -43,6 +49,8 @@ platform-based-application-development/
 - [Task 2](./tugas-2/)
 - [Tutorial 2.1 - Layout](./tugas-2/tutorial-2-1-layout/)
 - [Tutorial 2.2 - Layout](./tugas-2/tutorial-2-2-layout/)
+- [Task 3](./tugas-3/)
+- [Tutorial 3.1 - Layout Part 3](./tugas-3/tutorial-3-1-layout-part-3/)
 
 ## Notes
 
