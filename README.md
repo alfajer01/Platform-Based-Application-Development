@@ -35,10 +35,14 @@ platform-based-application-development/
 |     +- screenshot/
 |     +- README.md
 +- tugas-3/
-   +- tutorial-3-1-layout-part-3/
-      +- app/
-      +- screenshot/
-      +- README.md
+|  +- tutorial-3-1-layout-part-3/
+|  |  +- app/
+|  |  +- screenshot/
+|  |  +- README.md
+|  +- tutorial-3-2-user-interaction/
+|     +- app/
+|     +- screenshot/
+|     +- README.md
 ```
 
 ## Contents
@@ -51,6 +55,7 @@ platform-based-application-development/
 - [Tutorial 2.2 - Layout](./tugas-2/tutorial-2-2-layout/)
 - [Task 3](./tugas-3/)
 - [Tutorial 3.1 - Layout Part 3](./tugas-3/tutorial-3-1-layout-part-3/)
+- [Tutorial 3.2 - User Interaction](./tugas-3/tutorial-3-2-user-interaction/)
 
 ## Notes
 
